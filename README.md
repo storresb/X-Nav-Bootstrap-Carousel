@@ -21,3 +21,5 @@ Para realizar el ejercicio, debes crear un <i>fork</i> del repositorio del <a hr
 Has de tener un repositorio llamado X-Nav-Bootstrap-Carousel en tu cuenta en GitHub
 que incluya todos los elementos en local (o vía CDN) para que se pueda ver la 
 web resultante.
+
+https://storresb.github.io/X-Nav-Bootstrap-Carousel
